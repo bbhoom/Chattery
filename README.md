@@ -5,6 +5,14 @@ A modern, responsive one-to-one chat application built with Spring Boot, WebSock
 ![Chat Application](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 ![WebSocket](https://img.shields.io/badge/WebSocket-STOMP-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+## Images
+
+
+<img width="1336" height="756" alt="image" src="https://github.com/user-attachments/assets/1bff637d-33f9-4153-b7d3-ad393d01f9cd" />
+
+<img width="1890" height="837" alt="image" src="https://github.com/user-attachments/assets/728d82ba-33fa-4912-95af-e6df7c4cf49f" />
+
+
 
 ## Features
 
